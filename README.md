@@ -4,4 +4,4 @@
 <hr/>
 <br/>
 
-<img src="images/OverView/model.png" alt="foodmunchModel" />
+<img src="images/OverView/model.jpg" alt="foodmunchModel" />
